@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plants/Edible/Carrot.md",
+                "file": "Garden Budget.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carrot"
+              "title": "Garden Budget"
             }
           }
         ]
@@ -167,11 +167,12 @@
   },
   "active": "500a7936643a7cfe",
   "lastOpenFiles": [
+    "Planting Planning.md",
+    "Garden Budget.md",
+    "Plants/Edible/Carrot.md",
     "Plants/Ornamental/Sunflower.md",
     "Plants/Edible/Herbs/Chives.md",
-    "Plants/Edible/Carrot.md",
     "Planting Info Template.md",
-    "Planting Planning.md",
     "Plants/Edible/Herbs/Basil.md",
     "Plants/Edible/Bean, Edamame.md",
     "Plants/Edible/Herbs",
